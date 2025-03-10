@@ -17,9 +17,9 @@ builder.Services.AddSwaggerGen(options =>
         Description = "Ett exempel på ett ASP.NET Core API med anpassad Swagger-dokumentation",
         Contact = new OpenApiContact
         {
-            Name = "Ditt Namn",
-            Email = "dinemail@example.com",
-            Url = new Uri("https://github.com/dittrepo")
+            Name = "David Gillberg",
+            Email = "david.gillberg@iths.se",
+            Url = new Uri("https://github.com/davidgillberg-iths/OpenAPIdemo")
         },
         License = new OpenApiLicense
         {
